@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia Grand PMS",
+  "description": "A high-end, responsive Boutique Hotel Property Management System featuring interactive front-desk reservations, live occupancy tracking, housekeeping dispatch, and loyalty guest databases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
